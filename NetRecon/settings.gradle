@@ -1,0 +1,2 @@
+rootProject.name = "NetRecon"
+include ':app'
